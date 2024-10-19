@@ -7,7 +7,7 @@ This repository contains artifacts from my software testing and quality assuranc
 
 This project demonstrates my ability to:
 
-- **Create unit tests:** I developed comprehensive JUnit tests for the `Contact` and `ContactService` classes to ensure code functionality and identify potential errors.
+- **Create unit tests:** I developed the classes and comprehensive JUnit tests for the classes to ensure code functionality and identify potential errors.
 - **Analyze testing approaches:** I evaluated different testing strategies based on the requirements and selected the most appropriate approach for unit testing the contact service.
 - **Apply testing strategies:** I implemented unit tests covering various scenarios, including valid and invalid inputs, boundary conditions, and exception handling.
 
